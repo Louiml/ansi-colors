@@ -37,4 +37,4 @@
 ### Bright_BackGround_Cyan = `\u001b[46;1m`
 ### Bright_BackGround_White = `\u001b[47;1m`
 # Fonts
-### Underline = `\u001b[3`
+### Underline = `\u001b[3m`
